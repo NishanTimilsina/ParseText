@@ -1,0 +1,45 @@
+Job Title: DB2 UDB Database Administrator
+Location: Dublin, OH
+Duration: Contract
+Job Description:
+DB2 UDB Database Administrator 
+-       Verify that backups for the Databases .
+-       TSM backup verify for QA Systems
+-       Performing Backup and Restore.
+-       Trouble shooting job failures.
+-       Handling customer requests to perform various DBA activities
+ -       Monitor DBA team ticketing queue for problems
+ -       Check CCMS or Solution Manager Alerts and Daily monitoring of the system and data bases.
+-       Check Information from DB6 Cockpit on SAP GUI.
+-       The Break fix and Enhancement tasks we perform Include Resolving database issues like:
+	•	Log File full.     
+	•	Typical backup failures.                              
+	•	DB2 Services stopped or not functioning              
+	•	Blocking & Deadlocks                                                                
+-       Developing scripts for automating daily DBA tasks
+-       Performance Monitoring
+-       Review Daily Space Report and add space to database files as needed
+-       Look for New administrative log and/or DB2DIAG.LOG entries, DB13 LOG
+-       Verify database logs have been archived successfully
+-       Check that no DBM and/or DB configuration have changed
+-       Check important performance measures based on your workload
+-       Check for automatic actions DB2 has taken on your behalf
+-       Ensure there is enough free memory
+-       Manual Verification using Check Points on Table Spaces, Verify total storage on UNIX systems and Database snapshots
+-       Verify parameters for Virtual Memory, Swap space, Short memory, buffer pool and other Database and SAP memory details
+-       Support Various Instances of DB2 Server by performing all above and any other related activities that would be required and play as a Team Member as expected
+Skills:
+	1.	DB2 UDB - LUW
+	2.	AIX ,(UNIX  is added advantage)
+	3.	SAP BASIS
+	4.	TIVOLI STORAGE MANAGER
+	5.	RDBMS Performance Tuning
+	6.	RDBMS Analysis and Design
+	7.	Change Control Management
+	8.	Knowledge of Backup / Recovery
+	9.	Knowledge of DB2 UDB Installation / Service Packs / Hotfixes
+	10.	Experience in Trouble shooting.
+	11.	Experience in Performance Tuning
+	12.	Experience  in developing SQL and Windows scripts
+	13.	Knowledge in IBM AIX operating systems
+	14.	Change Control Management

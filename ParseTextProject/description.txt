@@ -1,0 +1,23 @@
+We are currently expanding rapidly to take on even more clients, more teams/stadiums and more sports, including overseas, and we are looking to grow our mobile team by adding full-time iOS developers to meet the demand for our products, and to bring even more innovations and features to our existing mobile offerings. Our company affords a close-knit entrepreneurial environment with every individual being exposed to, and having a tangible impact on, the company's business.
+Come join us, and you will be a part of developing the ultimate mobile experience for sports fans everywhere!  
+Desired Skills and Experience Required:
+	•	At least 2 years' experience programming with iOS (iOS SDK, Objective C)
+	•	Experience with advanced UI implementation
+	•	API experience with client-server programming and multimedia playback
+	•	Proficiency with XCode
+	•	Experience with SVN and Git
+	•	Experience with XML and JSON
+Highly desirable:
+	•	SQLite API experience a plus
+	•	Experience with one or more scripting languages
+	•	Experience with interfacing with designers and content/feed administrators
+	•	Have at least one app that you developed (or contributed substantially to) and released in the Apple App Store.
+
+Please send your resume and highlight
+	•	Your overall technical skills and background
+	•	Your relevant professional and academic experience
+	•	Your mobile-app development skills (mention example projects, number of months of experience)
+	•	Your mobile-web development skills (mention example projects, number of months of experience)
+	•	Your system-integration skills, e.g., working with SDKs, APIs
+	•	Your software-engineering skills, e.g., version control, testing
+	•	Links to mobile apps that you have helped to create in the Apple App Store (mention how many others on the team, and what your role was in creating the app)

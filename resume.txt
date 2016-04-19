@@ -1,0 +1,120 @@
+NISHAN TIMILSINA
+52 S 101st Plaza, Omaha, NE 68127, USA
+641.919.3507 ∙ timilnishan@gmail.com 
+https://www.linkedin.com/in/NishanTimilsina
+
+
+
+ IOS DEVELOPER
+
+Exceptionally skilled software engineer with 4 years of hands-on experience driving mobile application development for iOS, with multiple successful applications released to the iTunes store. Demonstrated track record of providing significant contributions throughout the development lifecycle, with pivotal involvement in requirements gathering and analysis, technical specifications, coding, code quality, testing, debugging, user interface design, and implementation. Talented problem solver leveraging analysis to identify the root cause of issues.
+
+
+
+
+Software Engineering ∙ Mobile Application Development ∙ Object-Oriented Programming ∙ User Interface Design
+Web Application Development ∙ Agile Development Methodologies ∙ Requirements Management
+Technical Implementation ∙ Unit Testing ∙ Debugging & Troubleshooting ∙ Software Development Lifecycle
+Code Quality ∙ Process Optimization ∙ Documentation ∙ Database Design & Development
+
+Languages:Objective C, Swift,Java,,C, C++, Lua
+Web: PHP, MySQL, HTML, JavaScript, CSS,
+Databases: MySQL, Core Date,SQLlite
+Tools: Xcode, Eclipse, NetBeans, Google Webmaster
+Platforms: Mac OS X, Windows, Linux
+SDLC: Agile, Waterfall
+Design Pattern: singleton, observer,MVC,Facade,Delegate 
+Web Service:JSON,REST
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+CAREER NOTE: Completed on-campus studies and currently taking distance education courses to complete a Master's Degree in Computer Science (Available for full-time, W-2 employment).
+
+ONE PLATINUM SOLUTION, Jhamsikhel, Lalitpur, Nepal ∙ 2013 july to 2015 july (2 years)
+
+iOS Developer
+Program and implement robust iOS applications and frameworks. Develop and test quality code centered around key requirements. Conduct unit testing prior to implementation. Deploy applications to the iOS store. Identify and implement new technologies focused on application enhancement and optimization. Build graphical user interfaces. Integrate Agile methodologies into development practises.
+
+Projects:
+	▪	TasDeals iOS App: An e-commerce application allowing purchase and ordering of food, deals, accommodation, and travel on the Australian market; integrates with Facebook and PayPal API.Delgate,Protocal,NSNotification,APN,Core Animation,Core Data,AFNetworking,Core Location ,CocoPods technology are used.
+      URL: https://itunes.apple.com/us/app/tasdeals/id950993213?mt=8
+
+ 
+	▪	Gahana-Bazaar: An e-commerce application allowing purchase and ordering jewelry on the Nepali market.Mainly GCD(Multi-theading),Afnetworking, Core data, Core Animation, CocoPods , Apple Push Notification(APN), Foundation Framework,    UIKit Framework, Core Location are  used .
+      URL: https://itunes.apple.com/us/app/gahana-bazaar/id953015624?mt=8
+
+	▪	MoodFresh IOS App: A joke application providing entertainment and humor content to users, with more than 28,000 jokes in 24 categories. MVC, Delegate Pattern, UITabBarController, UITableView, UICollectionView , Category are used in this project.
+       URL:https://itunes.apple.com/au/app/mood-fresh/id901285121?mt=8
+
+
+	▪	KMG: A news application providing digital delivery of authentic news and analysis on Nepal.Learn ed technology like AFNetworking/RestFul API/JSON Parsing/Core Data/GPUImage/StoryBoaRD	
+
+	▪	KonnectPlus: A revolutionary new application providing first-of-its kind leverage of OTT technology to create  leading-edge broadcast-grade Internet delivery platform for the global South Indian ethnic community.Technology like AV Player,AV Foundation,Core Audio,Core Animation/REST API/AFnetworking/JSON etc used.
+
+
+
+
+
+DESIGN OFFSHORE PVT, Kathmandu, Baneswor, Nepal ∙ 2011 march to 2013 april (2 years)
+
+iOS Developer
+Handled design, development, and implementation of advanced iOS applications. Liaised with team members across multiple functional areas of feature development, implementation, and launch. Built individual modules for various applications. Developed web services, including HTTP, XML-RPC, JSON, and REST. Conducted unit testing, including edge cases, usability, and robustness. Designed user and graphical interfaces. Deployed application performance enhancements and bug fixes.
+
+DESIGN OFFSHORE PVT, continued:
+Projects:
+	▪	Key ID Manager iOS App: A database subscription program enabling simplified management of physical keys complete with phone-uploaded photos.ASIHTTPRequest/JOSN/API/APN/NSNotification/Protocal/ are used.
+	▪	AcanTV iOS App: An application to stream online television and Senegalese programming to iOS devices.Used technology such as Core Animation,AV Foundation,MoviePlayerController,Core Audio,UIKit etc
+      
+	▪	Logo Design Guarantee ios App: An application providing access to the company guarantee for customer satisfaction and the money-back guarantee.GCD/Protocal,NSNotification/Singleton/ASIHttpRequest/JSON/ are used.
+	▪	Hottie Hunter Social (LDG) iOS App: An application allowing online and social media sharing and browsing of local members.Project contains Core Location, Core Animation, Parse, APN, Cocopods, AFNetworking, GCD, Multithreading, Block, Provisioning Profile, app store apple guidelines etc.
+
+
+
+
+ACADEMIC PROJECTS
+
+	▪	Local Area Network Chat Machine, Nepal College of Information Technology: A chat and file sharing application built in C#.NET.
+
+
+NISHAN TIMILSINA ∙ Page 2 ∙ 641.919.3507 ∙ timilnishan@gmail.com, 
+ https://www.linkedin.com/in/NishanTimilsina
+
+
+	▪	Fighter Game Application, Nepal College of Information Technology: A combat simulation game for multiple users, built in C++ with object-oriented programming principles.
+
+	▪	First Order Logic Implementation, Nepal College of Information Technology: An artificial intelligence application created in Java with Eclipse and Net beans.
+
+	▪	Student Management Information System, Maharishi University of Management: A complex system for student administration, registration, and management, faculty management, course assignments, and grading.
+	▪	Dictionary Project :Lots of a book or electronic resource that lists the words of a language (typically in alphabetical order) and gives their meaning, or gives the equivalent words in a different language, often also providing information about pronunciation, origin, and usage.Technology used Ajax,J Query, PHP, CSS.
+
+
+
+
+
+
+
+
+
+
+EDUCATION
+
+Master of Science in Computer Science
+(In progress via distance education; expected completion 2018)
+Maharishi University of Management, Fair-field, Iowa
+
+Key Courses: Fundamental Programming Practises, Modern Programming Practises, Algorithms, Parallel Programming,Database
+
+Bachelor in Computer Engineering (2012)
+Nepal College of Information Technology, Balkumari, Lalitpur, Nepal
+
+
+PROFESSIONAL DEVELOPMENT
+Certified Engineer, Nepal Engineering Association
+Web Development Training Certification
+
+
+
+
