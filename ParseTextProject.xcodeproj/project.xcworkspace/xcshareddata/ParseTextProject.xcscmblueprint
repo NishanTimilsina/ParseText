@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BBAA5445450C25B1887B6555B02DD74BC7D83640",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CB3E5ED5AD1DA5178038C1E52AFA597328999768" : 0,
+    "BBAA5445450C25B1887B6555B02DD74BC7D83640" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E518E8EA-E976-4DC5-935B-FC2578DD7F7B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CB3E5ED5AD1DA5178038C1E52AFA597328999768" : "",
+    "BBAA5445450C25B1887B6555B02DD74BC7D83640" : "ParseTextProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ParseTextProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ParseTextProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/damnhansy\/ParseText.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BBAA5445450C25B1887B6555B02DD74BC7D83640"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/damnhansy\/myswiftproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CB3E5ED5AD1DA5178038C1E52AFA597328999768"
+    }
+  ]
+}

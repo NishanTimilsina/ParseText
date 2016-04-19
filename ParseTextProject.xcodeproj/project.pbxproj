@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DDA245871CC6A48400249A7E /* 17-20_search_png24.png in Resources */ = {isa = PBXBuildFile; fileRef = DDA245861CC6A48400249A7E /* 17-20_search_png24.png */; };
 		DDC87D7F1CC5AEA900ED0814 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC87D7E1CC5AEA900ED0814 /* AppDelegate.swift */; };
 		DDC87D811CC5AEA900ED0814 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC87D801CC5AEA900ED0814 /* ViewController.swift */; };
 		DDC87D841CC5AEA900ED0814 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDC87D821CC5AEA900ED0814 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DDA245861CC6A48400249A7E /* 17-20_search_png24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "17-20_search_png24.png"; sourceTree = "<group>"; };
 		DDC87D7B1CC5AEA900ED0814 /* ParseTextProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParseTextProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC87D7E1CC5AEA900ED0814 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDC87D801CC5AEA900ED0814 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 				DDC87D801CC5AEA900ED0814 /* ViewController.swift */,
 				DDC87D821CC5AEA900ED0814 /* Main.storyboard */,
 				DDC87D881CC5AEA900ED0814 /* Assets.xcassets */,
+				DDA245861CC6A48400249A7E /* 17-20_search_png24.png */,
 				DDC87D8A1CC5AEA900ED0814 /* LaunchScreen.storyboard */,
 				DDC87D8D1CC5AEA900ED0814 /* Info.plist */,
 				DDC87D851CC5AEA900ED0814 /* ParseTextProject.xcdatamodeld */,
@@ -247,6 +250,7 @@
 				DDC87D841CC5AEA900ED0814 /* Main.storyboard in Resources */,
 				DDC87DB81CC5E3F100ED0814 /* resume2.txt in Resources */,
 				DDC87DB61CC5CA4300ED0814 /* resume.txt in Resources */,
+				DDA245871CC6A48400249A7E /* 17-20_search_png24.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +502,7 @@
 				DDC87DA81CC5AEA900ED0814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DDC87DA91CC5AEA900ED0814 /* Build configuration list for PBXNativeTarget "ParseTextProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +511,7 @@
 				DDC87DAB1CC5AEA900ED0814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DDC87DAC1CC5AEA900ED0814 /* Build configuration list for PBXNativeTarget "ParseTextProjectUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +520,7 @@
 				DDC87DAE1CC5AEA900ED0814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
