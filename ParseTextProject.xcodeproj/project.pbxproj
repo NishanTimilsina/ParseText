@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		DDA245871CC6A48400249A7E /* 17-20_search_png24.png in Resources */ = {isa = PBXBuildFile; fileRef = DDA245861CC6A48400249A7E /* 17-20_search_png24.png */; };
+		DDA245891CCB007300249A7E /* des2.txt in Resources */ = {isa = PBXBuildFile; fileRef = DDA245881CCB007300249A7E /* des2.txt */; };
 		DDC87D7F1CC5AEA900ED0814 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC87D7E1CC5AEA900ED0814 /* AppDelegate.swift */; };
 		DDC87D811CC5AEA900ED0814 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC87D801CC5AEA900ED0814 /* ViewController.swift */; };
 		DDC87D841CC5AEA900ED0814 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDC87D821CC5AEA900ED0814 /* Main.storyboard */; };
@@ -40,6 +41,7 @@
 
 /* Begin PBXFileReference section */
 		DDA245861CC6A48400249A7E /* 17-20_search_png24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "17-20_search_png24.png"; sourceTree = "<group>"; };
+		DDA245881CCB007300249A7E /* des2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = des2.txt; sourceTree = "<group>"; };
 		DDC87D7B1CC5AEA900ED0814 /* ParseTextProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParseTextProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC87D7E1CC5AEA900ED0814 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDC87D801CC5AEA900ED0814 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 		DDC87D721CC5AEA900ED0814 = {
 			isa = PBXGroup;
 			children = (
+				DDA245881CCB007300249A7E /* des2.txt */,
 				DDC87DB71CC5E3F100ED0814 /* resume2.txt */,
 				DDC87DB51CC5CA4300ED0814 /* resume.txt */,
 				DDC87DB31CC5B71200ED0814 /* description.txt */,
@@ -248,6 +251,7 @@
 				DDC87D891CC5AEA900ED0814 /* Assets.xcassets in Resources */,
 				DDC87DB41CC5B71200ED0814 /* description.txt in Resources */,
 				DDC87D841CC5AEA900ED0814 /* Main.storyboard in Resources */,
+				DDA245891CCB007300249A7E /* des2.txt in Resources */,
 				DDC87DB81CC5E3F100ED0814 /* resume2.txt in Resources */,
 				DDC87DB61CC5CA4300ED0814 /* resume.txt in Resources */,
 				DDA245871CC6A48400249A7E /* 17-20_search_png24.png in Resources */,

@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         var filteredDesArray=[String]()
         var count:Int=0;
         resumeArray=readDataFromFile("resume2")!
-        
+    
         desArray=readDataFromDes("description")!
         for filterText in desArray{
         filteredDesArray.append(removeSpecialCharsFromString(filterText))
@@ -51,51 +51,69 @@ class ViewController: UIViewController {
         return String(text.characters.filter {okayChars.contains($0) })
     }
     func readDataFromFile(filename:String)->[String]?{
+        var resArr=[String]()
+        var keywords=[NSString]()
+        var flag:Bool?
+        keywords.append("Job Description:")
+        keywords.append("Skills:")
+        keywords.append("Requirement:")
+        keywords.append("Responsibilities:")
+        
         let url = NSBundle.mainBundle().URLForResource(filename, withExtension: "txt")!
-        //print("\(url)")
 
         do {
             let text = try String( contentsOfURL: url, encoding: NSUTF8StringEncoding)
-            
-            if(text.containsString("Job Description")||(text.containsString("Skills"))){
+            for var i = 0; i<keywords.count; i++ {
+            if(text.containsString(keywords[i] as String)){
             // Search for one string in another.
-                var resArr=[String]()
-                    var result = text.rangeOfString("Job Description:",
+                    var result = text.rangeOfString(keywords[i] as String,
                         options: NSStringCompareOptions.LiteralSearch,
                         range: (text as String).startIndex..<(text as String).endIndex,
                         locale: nil)
-            
-                    var result1 = text.rangeOfString("Skills:",
-                        options: NSStringCompareOptions.LiteralSearch,
-                        range: (text as String).startIndex..<(text as String).endIndex,
-                        locale: nil)
-                    // See if string was found.
-                            if let range = result {
+                        for var j = i+1; j<keywords.count; j++ {
+                                if(text.containsString(keywords[j] as String)){
+                                    var innerResult = text.rangeOfString(keywords[j] as String,
+                                        options: NSStringCompareOptions.LiteralSearch,
+                                        range: (text as String).startIndex..<(text as String).endIndex,
+                                        locale: nil)
+                                    if let range = result {
                                     // Start of range of found string.
-                                    var start = range.startIndex
+                                var start = range.startIndex
+                                if let ran = innerResult{
                                     // Display string starting at first index.
-                               resArr=(text[start..<result1!.startIndex]).componentsSeparatedByString(" ")
+                               resArr+=(text[start..<ran.startIndex]).componentsSeparatedByString(" ")
+                                    break
+                                        }
+                        }
+            
+                    }
+                    else{
+                    flag=false
+                    }
+                    
+                }//for loop end
+                
+                if flag==false  {
+                if let range = result {
+
+                var start = range.startIndex
+
+                    resArr+=(text[start..<text.endIndex]).componentsSeparatedByString(" ")
+                }
 
                 }
-                if let range1 = result1 {
-                    // Start of range of found string.
-                    var start1 = range1.startIndex
-                    // Display string starting at first index.
-                    resArr+=(text[start1..<text.endIndex]).componentsSeparatedByString(" ")
-
-                }
-               return  resArr
-
+            }
 
             }
-            return text.componentsSeparatedByString(" ")
 
 
         } catch let errOpening as NSError {
             print("Error!", errOpening)
             return nil
         }
-        
+
+        return resArr
+
     }
     
     func readDataFromDes(filename:String)->[String]?{
@@ -116,6 +134,8 @@ class ViewController: UIViewController {
     
        override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        
+        
         // Dispose of any resources that can be recreated.
     }
 
